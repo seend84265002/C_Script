@@ -1,0 +1,14 @@
+D:\CS\CS\Ch11_P24\bin\Debug\netcoreapp3.1\Ch11_P24.exe
+D:\CS\CS\Ch11_P24\bin\Debug\netcoreapp3.1\Ch11_P24.deps.json
+D:\CS\CS\Ch11_P24\bin\Debug\netcoreapp3.1\Ch11_P24.runtimeconfig.json
+D:\CS\CS\Ch11_P24\bin\Debug\netcoreapp3.1\Ch11_P24.runtimeconfig.dev.json
+D:\CS\CS\Ch11_P24\bin\Debug\netcoreapp3.1\Ch11_P24.dll
+D:\CS\CS\Ch11_P24\bin\Debug\netcoreapp3.1\Ch11_P24.pdb
+D:\CS\CS\Ch11_P24\obj\Debug\netcoreapp3.1\Ch11_P24.csproj.AssemblyReference.cache
+D:\CS\CS\Ch11_P24\obj\Debug\netcoreapp3.1\Ch11_P24.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\CS\Ch11_P24\obj\Debug\netcoreapp3.1\Ch11_P24.AssemblyInfoInputs.cache
+D:\CS\CS\Ch11_P24\obj\Debug\netcoreapp3.1\Ch11_P24.AssemblyInfo.cs
+D:\CS\CS\Ch11_P24\obj\Debug\netcoreapp3.1\Ch11_P24.csproj.CoreCompileInputs.cache
+D:\CS\CS\Ch11_P24\obj\Debug\netcoreapp3.1\Ch11_P24.dll
+D:\CS\CS\Ch11_P24\obj\Debug\netcoreapp3.1\Ch11_P24.pdb
+D:\CS\CS\Ch11_P24\obj\Debug\netcoreapp3.1\Ch11_P24.genruntimeconfig.cache

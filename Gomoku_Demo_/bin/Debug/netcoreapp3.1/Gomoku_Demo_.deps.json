@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Gomoku_Demo_/1.0.0": {
+        "runtime": {
+          "Gomoku_Demo_.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gomoku_Demo_/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

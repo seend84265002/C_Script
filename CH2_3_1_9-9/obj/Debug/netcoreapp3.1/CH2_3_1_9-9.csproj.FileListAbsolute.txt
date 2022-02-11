@@ -1,0 +1,13 @@
+D:\CS\CS\CH2_3_1_9-9\bin\Debug\netcoreapp3.1\CH2_3_1_9-9.exe
+D:\CS\CS\CH2_3_1_9-9\bin\Debug\netcoreapp3.1\CH2_3_1_9-9.deps.json
+D:\CS\CS\CH2_3_1_9-9\bin\Debug\netcoreapp3.1\CH2_3_1_9-9.runtimeconfig.json
+D:\CS\CS\CH2_3_1_9-9\bin\Debug\netcoreapp3.1\CH2_3_1_9-9.runtimeconfig.dev.json
+D:\CS\CS\CH2_3_1_9-9\bin\Debug\netcoreapp3.1\CH2_3_1_9-9.dll
+D:\CS\CS\CH2_3_1_9-9\bin\Debug\netcoreapp3.1\CH2_3_1_9-9.pdb
+D:\CS\CS\CH2_3_1_9-9\obj\Debug\netcoreapp3.1\CH2_3_1_9-9.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\CS\CH2_3_1_9-9\obj\Debug\netcoreapp3.1\CH2_3_1_9-9.AssemblyInfoInputs.cache
+D:\CS\CS\CH2_3_1_9-9\obj\Debug\netcoreapp3.1\CH2_3_1_9-9.AssemblyInfo.cs
+D:\CS\CS\CH2_3_1_9-9\obj\Debug\netcoreapp3.1\CH2_3_1_9-9.csproj.CoreCompileInputs.cache
+D:\CS\CS\CH2_3_1_9-9\obj\Debug\netcoreapp3.1\CH2_3_1_9-9.dll
+D:\CS\CS\CH2_3_1_9-9\obj\Debug\netcoreapp3.1\CH2_3_1_9-9.pdb
+D:\CS\CS\CH2_3_1_9-9\obj\Debug\netcoreapp3.1\CH2_3_1_9-9.genruntimeconfig.cache

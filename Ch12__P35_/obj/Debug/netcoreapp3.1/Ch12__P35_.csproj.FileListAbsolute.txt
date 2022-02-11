@@ -1,0 +1,14 @@
+D:\CS\CS\Ch12__P35_\bin\Debug\netcoreapp3.1\Ch12__P35_.exe
+D:\CS\CS\Ch12__P35_\bin\Debug\netcoreapp3.1\Ch12__P35_.deps.json
+D:\CS\CS\Ch12__P35_\bin\Debug\netcoreapp3.1\Ch12__P35_.runtimeconfig.json
+D:\CS\CS\Ch12__P35_\bin\Debug\netcoreapp3.1\Ch12__P35_.runtimeconfig.dev.json
+D:\CS\CS\Ch12__P35_\bin\Debug\netcoreapp3.1\Ch12__P35_.dll
+D:\CS\CS\Ch12__P35_\bin\Debug\netcoreapp3.1\Ch12__P35_.pdb
+D:\CS\CS\Ch12__P35_\obj\Debug\netcoreapp3.1\Ch12__P35_.csproj.AssemblyReference.cache
+D:\CS\CS\Ch12__P35_\obj\Debug\netcoreapp3.1\Ch12__P35_.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\CS\Ch12__P35_\obj\Debug\netcoreapp3.1\Ch12__P35_.AssemblyInfoInputs.cache
+D:\CS\CS\Ch12__P35_\obj\Debug\netcoreapp3.1\Ch12__P35_.AssemblyInfo.cs
+D:\CS\CS\Ch12__P35_\obj\Debug\netcoreapp3.1\Ch12__P35_.csproj.CoreCompileInputs.cache
+D:\CS\CS\Ch12__P35_\obj\Debug\netcoreapp3.1\Ch12__P35_.dll
+D:\CS\CS\Ch12__P35_\obj\Debug\netcoreapp3.1\Ch12__P35_.pdb
+D:\CS\CS\Ch12__P35_\obj\Debug\netcoreapp3.1\Ch12__P35_.genruntimeconfig.cache

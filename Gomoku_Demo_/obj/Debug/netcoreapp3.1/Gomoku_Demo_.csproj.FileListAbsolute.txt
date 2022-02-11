@@ -1,0 +1,17 @@
+D:\CS\CS\Gomoku_Demo_\bin\Debug\netcoreapp3.1\Gomoku_Demo_.exe
+D:\CS\CS\Gomoku_Demo_\bin\Debug\netcoreapp3.1\Gomoku_Demo_.deps.json
+D:\CS\CS\Gomoku_Demo_\bin\Debug\netcoreapp3.1\Gomoku_Demo_.runtimeconfig.json
+D:\CS\CS\Gomoku_Demo_\bin\Debug\netcoreapp3.1\Gomoku_Demo_.runtimeconfig.dev.json
+D:\CS\CS\Gomoku_Demo_\bin\Debug\netcoreapp3.1\Gomoku_Demo_.dll
+D:\CS\CS\Gomoku_Demo_\bin\Debug\netcoreapp3.1\Gomoku_Demo_.pdb
+D:\CS\CS\Gomoku_Demo_\obj\Debug\netcoreapp3.1\Gomoku_Demo_.Form1.resources
+D:\CS\CS\Gomoku_Demo_\obj\Debug\netcoreapp3.1\Gomoku_Demo_.Properties.Resources.resources
+D:\CS\CS\Gomoku_Demo_\obj\Debug\netcoreapp3.1\Gomoku_Demo_.csproj.GenerateResource.cache
+D:\CS\CS\Gomoku_Demo_\obj\Debug\netcoreapp3.1\Gomoku_Demo_.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\CS\Gomoku_Demo_\obj\Debug\netcoreapp3.1\Gomoku_Demo_.AssemblyInfoInputs.cache
+D:\CS\CS\Gomoku_Demo_\obj\Debug\netcoreapp3.1\Gomoku_Demo_.AssemblyInfo.cs
+D:\CS\CS\Gomoku_Demo_\obj\Debug\netcoreapp3.1\Gomoku_Demo_.csproj.CoreCompileInputs.cache
+D:\CS\CS\Gomoku_Demo_\obj\Debug\netcoreapp3.1\Gomoku_Demo_.dll
+D:\CS\CS\Gomoku_Demo_\obj\Debug\netcoreapp3.1\Gomoku_Demo_.pdb
+D:\CS\CS\Gomoku_Demo_\obj\Debug\netcoreapp3.1\Gomoku_Demo_.genruntimeconfig.cache
+D:\CS\CS\Gomoku_Demo_\obj\Debug\netcoreapp3.1\Gomoku_Demo_.csproj.AssemblyReference.cache

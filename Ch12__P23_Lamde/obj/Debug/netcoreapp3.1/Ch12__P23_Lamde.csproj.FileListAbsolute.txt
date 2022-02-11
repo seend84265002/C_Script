@@ -1,0 +1,14 @@
+D:\CS\CS\Ch12__P23_Lamde\bin\Debug\netcoreapp3.1\Ch12__P23_Lamde.exe
+D:\CS\CS\Ch12__P23_Lamde\bin\Debug\netcoreapp3.1\Ch12__P23_Lamde.deps.json
+D:\CS\CS\Ch12__P23_Lamde\bin\Debug\netcoreapp3.1\Ch12__P23_Lamde.runtimeconfig.json
+D:\CS\CS\Ch12__P23_Lamde\bin\Debug\netcoreapp3.1\Ch12__P23_Lamde.runtimeconfig.dev.json
+D:\CS\CS\Ch12__P23_Lamde\bin\Debug\netcoreapp3.1\Ch12__P23_Lamde.dll
+D:\CS\CS\Ch12__P23_Lamde\bin\Debug\netcoreapp3.1\Ch12__P23_Lamde.pdb
+D:\CS\CS\Ch12__P23_Lamde\obj\Debug\netcoreapp3.1\Ch12__P23_Lamde.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\CS\Ch12__P23_Lamde\obj\Debug\netcoreapp3.1\Ch12__P23_Lamde.AssemblyInfoInputs.cache
+D:\CS\CS\Ch12__P23_Lamde\obj\Debug\netcoreapp3.1\Ch12__P23_Lamde.AssemblyInfo.cs
+D:\CS\CS\Ch12__P23_Lamde\obj\Debug\netcoreapp3.1\Ch12__P23_Lamde.csproj.CoreCompileInputs.cache
+D:\CS\CS\Ch12__P23_Lamde\obj\Debug\netcoreapp3.1\Ch12__P23_Lamde.dll
+D:\CS\CS\Ch12__P23_Lamde\obj\Debug\netcoreapp3.1\Ch12__P23_Lamde.pdb
+D:\CS\CS\Ch12__P23_Lamde\obj\Debug\netcoreapp3.1\Ch12__P23_Lamde.genruntimeconfig.cache
+D:\CS\CS\Ch12__P23_Lamde\obj\Debug\netcoreapp3.1\Ch12__P23_Lamde.csproj.AssemblyReference.cache

@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "No6Mo5hwRQ1vKGzxmXgC1nGoGaTYeGZdmWRMV7C99Wu5nM8I1Vr3v8q5D4PxSBc4HWihy8/45FW9qWfsJpq1Cg==",
+  "success": true,
+  "projectFilePath": "D:\\CS\\CS\\Ch3_C_2\\Ch3_C_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wen9527\\.nuget\\packages\\dryioc.dll\\4.8.1\\dryioc.dll.4.8.1.nupkg.sha512",
+    "C:\\Users\\Wen9527\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Wen9527\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Wen9527\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\Wen9527\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\Wen9527\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "C:\\Users\\Wen9527\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
+    "C:\\Users\\Wen9527\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Wen9527\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Wen9527\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\Wen9527\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

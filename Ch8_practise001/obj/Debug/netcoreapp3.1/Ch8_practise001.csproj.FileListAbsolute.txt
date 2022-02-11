@@ -1,0 +1,13 @@
+D:\CS\CS\Ch8_practise001\bin\Debug\netcoreapp3.1\Ch8_practise001.exe
+D:\CS\CS\Ch8_practise001\bin\Debug\netcoreapp3.1\Ch8_practise001.deps.json
+D:\CS\CS\Ch8_practise001\bin\Debug\netcoreapp3.1\Ch8_practise001.runtimeconfig.json
+D:\CS\CS\Ch8_practise001\bin\Debug\netcoreapp3.1\Ch8_practise001.runtimeconfig.dev.json
+D:\CS\CS\Ch8_practise001\bin\Debug\netcoreapp3.1\Ch8_practise001.dll
+D:\CS\CS\Ch8_practise001\bin\Debug\netcoreapp3.1\Ch8_practise001.pdb
+D:\CS\CS\Ch8_practise001\obj\Debug\netcoreapp3.1\Ch8_practise001.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\CS\Ch8_practise001\obj\Debug\netcoreapp3.1\Ch8_practise001.AssemblyInfoInputs.cache
+D:\CS\CS\Ch8_practise001\obj\Debug\netcoreapp3.1\Ch8_practise001.AssemblyInfo.cs
+D:\CS\CS\Ch8_practise001\obj\Debug\netcoreapp3.1\Ch8_practise001.csproj.CoreCompileInputs.cache
+D:\CS\CS\Ch8_practise001\obj\Debug\netcoreapp3.1\Ch8_practise001.dll
+D:\CS\CS\Ch8_practise001\obj\Debug\netcoreapp3.1\Ch8_practise001.pdb
+D:\CS\CS\Ch8_practise001\obj\Debug\netcoreapp3.1\Ch8_practise001.genruntimeconfig.cache

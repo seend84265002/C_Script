@@ -1,0 +1,14 @@
+D:\CS\CS\Ch10__P51\bin\Debug\netcoreapp3.1\Ch10__P51.exe
+D:\CS\CS\Ch10__P51\bin\Debug\netcoreapp3.1\Ch10__P51.deps.json
+D:\CS\CS\Ch10__P51\bin\Debug\netcoreapp3.1\Ch10__P51.runtimeconfig.json
+D:\CS\CS\Ch10__P51\bin\Debug\netcoreapp3.1\Ch10__P51.runtimeconfig.dev.json
+D:\CS\CS\Ch10__P51\bin\Debug\netcoreapp3.1\Ch10__P51.dll
+D:\CS\CS\Ch10__P51\bin\Debug\netcoreapp3.1\Ch10__P51.pdb
+D:\CS\CS\Ch10__P51\obj\Debug\netcoreapp3.1\Ch10__P51.csproj.AssemblyReference.cache
+D:\CS\CS\Ch10__P51\obj\Debug\netcoreapp3.1\Ch10__P51.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\CS\Ch10__P51\obj\Debug\netcoreapp3.1\Ch10__P51.AssemblyInfoInputs.cache
+D:\CS\CS\Ch10__P51\obj\Debug\netcoreapp3.1\Ch10__P51.AssemblyInfo.cs
+D:\CS\CS\Ch10__P51\obj\Debug\netcoreapp3.1\Ch10__P51.csproj.CoreCompileInputs.cache
+D:\CS\CS\Ch10__P51\obj\Debug\netcoreapp3.1\Ch10__P51.dll
+D:\CS\CS\Ch10__P51\obj\Debug\netcoreapp3.1\Ch10__P51.pdb
+D:\CS\CS\Ch10__P51\obj\Debug\netcoreapp3.1\Ch10__P51.genruntimeconfig.cache

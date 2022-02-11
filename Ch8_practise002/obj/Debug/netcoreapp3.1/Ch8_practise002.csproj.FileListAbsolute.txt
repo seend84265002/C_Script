@@ -1,0 +1,16 @@
+D:\CS\CS\Ch8_practise002\bin\Debug\netcoreapp3.1\Ch8_practise002.exe
+D:\CS\CS\Ch8_practise002\bin\Debug\netcoreapp3.1\Ch8_practise002.deps.json
+D:\CS\CS\Ch8_practise002\bin\Debug\netcoreapp3.1\Ch8_practise002.runtimeconfig.json
+D:\CS\CS\Ch8_practise002\bin\Debug\netcoreapp3.1\Ch8_practise002.runtimeconfig.dev.json
+D:\CS\CS\Ch8_practise002\bin\Debug\netcoreapp3.1\Ch8_practise002.dll
+D:\CS\CS\Ch8_practise002\bin\Debug\netcoreapp3.1\Ch8_practise002.pdb
+D:\CS\CS\Ch8_practise002\obj\Debug\netcoreapp3.1\Ch8_practise002.csproj.AssemblyReference.cache
+D:\CS\CS\Ch8_practise002\obj\Debug\netcoreapp3.1\Ch8_practise002.csproj.GenerateResource.cache
+D:\CS\CS\Ch8_practise002\obj\Debug\netcoreapp3.1\Ch8_practise002.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\CS\Ch8_practise002\obj\Debug\netcoreapp3.1\Ch8_practise002.AssemblyInfoInputs.cache
+D:\CS\CS\Ch8_practise002\obj\Debug\netcoreapp3.1\Ch8_practise002.AssemblyInfo.cs
+D:\CS\CS\Ch8_practise002\obj\Debug\netcoreapp3.1\Ch8_practise002.csproj.CoreCompileInputs.cache
+D:\CS\CS\Ch8_practise002\obj\Debug\netcoreapp3.1\Ch8_practise002.dll
+D:\CS\CS\Ch8_practise002\obj\Debug\netcoreapp3.1\Ch8_practise002.pdb
+D:\CS\CS\Ch8_practise002\obj\Debug\netcoreapp3.1\Ch8_practise002.genruntimeconfig.cache
+D:\CS\CS\Ch8_practise002\obj\Debug\netcoreapp3.1\Ch8_practise002.form.resources

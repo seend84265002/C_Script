@@ -1,0 +1,7 @@
+D:\CS\CS\Ch2_WinFormDemo\obj\Debug\netcoreapp3.1\Ch2_WinFormDemo.csproj.AssemblyReference.cache
+D:\CS\CS\Ch2_WinFormDemo\obj\Debug\netcoreapp3.1\Ch2_WinFormDemo.Form1.resources
+D:\CS\CS\Ch2_WinFormDemo\obj\Debug\netcoreapp3.1\Ch2_WinFormDemo.csproj.GenerateResource.cache
+D:\CS\CS\Ch2_WinFormDemo\obj\Debug\netcoreapp3.1\Ch2_WinFormDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\CS\Ch2_WinFormDemo\obj\Debug\netcoreapp3.1\Ch2_WinFormDemo.AssemblyInfoInputs.cache
+D:\CS\CS\Ch2_WinFormDemo\obj\Debug\netcoreapp3.1\Ch2_WinFormDemo.AssemblyInfo.cs
+D:\CS\CS\Ch2_WinFormDemo\obj\Debug\netcoreapp3.1\Ch2_WinFormDemo.csproj.CoreCompileInputs.cache

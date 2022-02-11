@@ -1,0 +1,16 @@
+D:\CS\CS\Ch13_P7_Lable_Click\bin\Debug\netcoreapp3.1\Ch13_P7_Lable_Click.exe
+D:\CS\CS\Ch13_P7_Lable_Click\bin\Debug\netcoreapp3.1\Ch13_P7_Lable_Click.deps.json
+D:\CS\CS\Ch13_P7_Lable_Click\bin\Debug\netcoreapp3.1\Ch13_P7_Lable_Click.runtimeconfig.json
+D:\CS\CS\Ch13_P7_Lable_Click\bin\Debug\netcoreapp3.1\Ch13_P7_Lable_Click.runtimeconfig.dev.json
+D:\CS\CS\Ch13_P7_Lable_Click\bin\Debug\netcoreapp3.1\Ch13_P7_Lable_Click.dll
+D:\CS\CS\Ch13_P7_Lable_Click\bin\Debug\netcoreapp3.1\Ch13_P7_Lable_Click.pdb
+D:\CS\CS\Ch13_P7_Lable_Click\obj\Debug\netcoreapp3.1\Ch13_P7_Lable_Click.csproj.AssemblyReference.cache
+D:\CS\CS\Ch13_P7_Lable_Click\obj\Debug\netcoreapp3.1\Ch13_P7_Lable_Click.Form1.resources
+D:\CS\CS\Ch13_P7_Lable_Click\obj\Debug\netcoreapp3.1\Ch13_P7_Lable_Click.csproj.GenerateResource.cache
+D:\CS\CS\Ch13_P7_Lable_Click\obj\Debug\netcoreapp3.1\Ch13_P7_Lable_Click.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\CS\Ch13_P7_Lable_Click\obj\Debug\netcoreapp3.1\Ch13_P7_Lable_Click.AssemblyInfoInputs.cache
+D:\CS\CS\Ch13_P7_Lable_Click\obj\Debug\netcoreapp3.1\Ch13_P7_Lable_Click.AssemblyInfo.cs
+D:\CS\CS\Ch13_P7_Lable_Click\obj\Debug\netcoreapp3.1\Ch13_P7_Lable_Click.csproj.CoreCompileInputs.cache
+D:\CS\CS\Ch13_P7_Lable_Click\obj\Debug\netcoreapp3.1\Ch13_P7_Lable_Click.dll
+D:\CS\CS\Ch13_P7_Lable_Click\obj\Debug\netcoreapp3.1\Ch13_P7_Lable_Click.pdb
+D:\CS\CS\Ch13_P7_Lable_Click\obj\Debug\netcoreapp3.1\Ch13_P7_Lable_Click.genruntimeconfig.cache

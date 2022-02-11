@@ -1,0 +1,16 @@
+D:\CS\CS\Ch8_1_2_P17\bin\Debug\netcoreapp3.1\Ch8_1_2_P17.exe
+D:\CS\CS\Ch8_1_2_P17\bin\Debug\netcoreapp3.1\Ch8_1_2_P17.deps.json
+D:\CS\CS\Ch8_1_2_P17\bin\Debug\netcoreapp3.1\Ch8_1_2_P17.runtimeconfig.json
+D:\CS\CS\Ch8_1_2_P17\bin\Debug\netcoreapp3.1\Ch8_1_2_P17.runtimeconfig.dev.json
+D:\CS\CS\Ch8_1_2_P17\bin\Debug\netcoreapp3.1\Ch8_1_2_P17.dll
+D:\CS\CS\Ch8_1_2_P17\bin\Debug\netcoreapp3.1\Ch8_1_2_P17.pdb
+D:\CS\CS\Ch8_1_2_P17\obj\Debug\netcoreapp3.1\Ch8_1_2_P17.csproj.AssemblyReference.cache
+D:\CS\CS\Ch8_1_2_P17\obj\Debug\netcoreapp3.1\Ch8_1_2_P17.Form1.resources
+D:\CS\CS\Ch8_1_2_P17\obj\Debug\netcoreapp3.1\Ch8_1_2_P17.csproj.GenerateResource.cache
+D:\CS\CS\Ch8_1_2_P17\obj\Debug\netcoreapp3.1\Ch8_1_2_P17.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\CS\Ch8_1_2_P17\obj\Debug\netcoreapp3.1\Ch8_1_2_P17.AssemblyInfoInputs.cache
+D:\CS\CS\Ch8_1_2_P17\obj\Debug\netcoreapp3.1\Ch8_1_2_P17.AssemblyInfo.cs
+D:\CS\CS\Ch8_1_2_P17\obj\Debug\netcoreapp3.1\Ch8_1_2_P17.csproj.CoreCompileInputs.cache
+D:\CS\CS\Ch8_1_2_P17\obj\Debug\netcoreapp3.1\Ch8_1_2_P17.dll
+D:\CS\CS\Ch8_1_2_P17\obj\Debug\netcoreapp3.1\Ch8_1_2_P17.pdb
+D:\CS\CS\Ch8_1_2_P17\obj\Debug\netcoreapp3.1\Ch8_1_2_P17.genruntimeconfig.cache

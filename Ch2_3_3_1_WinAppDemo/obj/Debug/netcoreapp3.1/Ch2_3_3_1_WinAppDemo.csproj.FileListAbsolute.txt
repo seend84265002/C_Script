@@ -1,0 +1,16 @@
+D:\CS\CS\Ch2_3_3_1_WinAppDemo\bin\Debug\netcoreapp3.1\Ch2_3_3_1_WinAppDemo.exe
+D:\CS\CS\Ch2_3_3_1_WinAppDemo\bin\Debug\netcoreapp3.1\Ch2_3_3_1_WinAppDemo.deps.json
+D:\CS\CS\Ch2_3_3_1_WinAppDemo\bin\Debug\netcoreapp3.1\Ch2_3_3_1_WinAppDemo.runtimeconfig.json
+D:\CS\CS\Ch2_3_3_1_WinAppDemo\bin\Debug\netcoreapp3.1\Ch2_3_3_1_WinAppDemo.runtimeconfig.dev.json
+D:\CS\CS\Ch2_3_3_1_WinAppDemo\bin\Debug\netcoreapp3.1\Ch2_3_3_1_WinAppDemo.dll
+D:\CS\CS\Ch2_3_3_1_WinAppDemo\bin\Debug\netcoreapp3.1\Ch2_3_3_1_WinAppDemo.pdb
+D:\CS\CS\Ch2_3_3_1_WinAppDemo\obj\Debug\netcoreapp3.1\Ch2_3_3_1_WinAppDemo.csproj.AssemblyReference.cache
+D:\CS\CS\Ch2_3_3_1_WinAppDemo\obj\Debug\netcoreapp3.1\Ch2_3_3_1_WinAppDemo.Form1.resources
+D:\CS\CS\Ch2_3_3_1_WinAppDemo\obj\Debug\netcoreapp3.1\Ch2_3_3_1_WinAppDemo.csproj.GenerateResource.cache
+D:\CS\CS\Ch2_3_3_1_WinAppDemo\obj\Debug\netcoreapp3.1\Ch2_3_3_1_WinAppDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\CS\Ch2_3_3_1_WinAppDemo\obj\Debug\netcoreapp3.1\Ch2_3_3_1_WinAppDemo.AssemblyInfoInputs.cache
+D:\CS\CS\Ch2_3_3_1_WinAppDemo\obj\Debug\netcoreapp3.1\Ch2_3_3_1_WinAppDemo.AssemblyInfo.cs
+D:\CS\CS\Ch2_3_3_1_WinAppDemo\obj\Debug\netcoreapp3.1\Ch2_3_3_1_WinAppDemo.csproj.CoreCompileInputs.cache
+D:\CS\CS\Ch2_3_3_1_WinAppDemo\obj\Debug\netcoreapp3.1\Ch2_3_3_1_WinAppDemo.dll
+D:\CS\CS\Ch2_3_3_1_WinAppDemo\obj\Debug\netcoreapp3.1\Ch2_3_3_1_WinAppDemo.pdb
+D:\CS\CS\Ch2_3_3_1_WinAppDemo\obj\Debug\netcoreapp3.1\Ch2_3_3_1_WinAppDemo.genruntimeconfig.cache

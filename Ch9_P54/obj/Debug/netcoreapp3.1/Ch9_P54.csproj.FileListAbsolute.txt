@@ -1,0 +1,14 @@
+D:\CS\CS\Ch9_P54\bin\Debug\netcoreapp3.1\Ch9_P54.exe
+D:\CS\CS\Ch9_P54\bin\Debug\netcoreapp3.1\Ch9_P54.deps.json
+D:\CS\CS\Ch9_P54\bin\Debug\netcoreapp3.1\Ch9_P54.runtimeconfig.json
+D:\CS\CS\Ch9_P54\bin\Debug\netcoreapp3.1\Ch9_P54.runtimeconfig.dev.json
+D:\CS\CS\Ch9_P54\bin\Debug\netcoreapp3.1\Ch9_P54.dll
+D:\CS\CS\Ch9_P54\bin\Debug\netcoreapp3.1\Ch9_P54.pdb
+D:\CS\CS\Ch9_P54\obj\Debug\netcoreapp3.1\Ch9_P54.csproj.AssemblyReference.cache
+D:\CS\CS\Ch9_P54\obj\Debug\netcoreapp3.1\Ch9_P54.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\CS\Ch9_P54\obj\Debug\netcoreapp3.1\Ch9_P54.AssemblyInfoInputs.cache
+D:\CS\CS\Ch9_P54\obj\Debug\netcoreapp3.1\Ch9_P54.AssemblyInfo.cs
+D:\CS\CS\Ch9_P54\obj\Debug\netcoreapp3.1\Ch9_P54.csproj.CoreCompileInputs.cache
+D:\CS\CS\Ch9_P54\obj\Debug\netcoreapp3.1\Ch9_P54.dll
+D:\CS\CS\Ch9_P54\obj\Debug\netcoreapp3.1\Ch9_P54.pdb
+D:\CS\CS\Ch9_P54\obj\Debug\netcoreapp3.1\Ch9_P54.genruntimeconfig.cache

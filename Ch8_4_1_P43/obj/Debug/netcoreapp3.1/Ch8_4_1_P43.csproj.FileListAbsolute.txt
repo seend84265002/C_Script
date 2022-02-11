@@ -1,0 +1,14 @@
+D:\CS\CS\Ch8_4_1_P43\bin\Debug\netcoreapp3.1\Ch8_4_1_P43.exe
+D:\CS\CS\Ch8_4_1_P43\bin\Debug\netcoreapp3.1\Ch8_4_1_P43.deps.json
+D:\CS\CS\Ch8_4_1_P43\bin\Debug\netcoreapp3.1\Ch8_4_1_P43.runtimeconfig.json
+D:\CS\CS\Ch8_4_1_P43\bin\Debug\netcoreapp3.1\Ch8_4_1_P43.runtimeconfig.dev.json
+D:\CS\CS\Ch8_4_1_P43\bin\Debug\netcoreapp3.1\Ch8_4_1_P43.dll
+D:\CS\CS\Ch8_4_1_P43\bin\Debug\netcoreapp3.1\Ch8_4_1_P43.pdb
+D:\CS\CS\Ch8_4_1_P43\obj\Debug\netcoreapp3.1\Ch8_4_1_P43.csproj.AssemblyReference.cache
+D:\CS\CS\Ch8_4_1_P43\obj\Debug\netcoreapp3.1\Ch8_4_1_P43.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\CS\Ch8_4_1_P43\obj\Debug\netcoreapp3.1\Ch8_4_1_P43.AssemblyInfoInputs.cache
+D:\CS\CS\Ch8_4_1_P43\obj\Debug\netcoreapp3.1\Ch8_4_1_P43.AssemblyInfo.cs
+D:\CS\CS\Ch8_4_1_P43\obj\Debug\netcoreapp3.1\Ch8_4_1_P43.csproj.CoreCompileInputs.cache
+D:\CS\CS\Ch8_4_1_P43\obj\Debug\netcoreapp3.1\Ch8_4_1_P43.dll
+D:\CS\CS\Ch8_4_1_P43\obj\Debug\netcoreapp3.1\Ch8_4_1_P43.pdb
+D:\CS\CS\Ch8_4_1_P43\obj\Debug\netcoreapp3.1\Ch8_4_1_P43.genruntimeconfig.cache

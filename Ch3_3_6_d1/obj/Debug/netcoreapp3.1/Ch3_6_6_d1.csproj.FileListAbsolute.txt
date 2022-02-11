@@ -1,0 +1,13 @@
+D:\CS\CS\Ch3_3_6_d1\bin\Debug\netcoreapp3.1\Ch3_6_6_d1.exe
+D:\CS\CS\Ch3_3_6_d1\bin\Debug\netcoreapp3.1\Ch3_6_6_d1.deps.json
+D:\CS\CS\Ch3_3_6_d1\bin\Debug\netcoreapp3.1\Ch3_6_6_d1.runtimeconfig.json
+D:\CS\CS\Ch3_3_6_d1\bin\Debug\netcoreapp3.1\Ch3_6_6_d1.runtimeconfig.dev.json
+D:\CS\CS\Ch3_3_6_d1\bin\Debug\netcoreapp3.1\Ch3_6_6_d1.dll
+D:\CS\CS\Ch3_3_6_d1\bin\Debug\netcoreapp3.1\Ch3_6_6_d1.pdb
+D:\CS\CS\Ch3_3_6_d1\obj\Debug\netcoreapp3.1\Ch3_6_6_d1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\CS\Ch3_3_6_d1\obj\Debug\netcoreapp3.1\Ch3_6_6_d1.AssemblyInfoInputs.cache
+D:\CS\CS\Ch3_3_6_d1\obj\Debug\netcoreapp3.1\Ch3_6_6_d1.AssemblyInfo.cs
+D:\CS\CS\Ch3_3_6_d1\obj\Debug\netcoreapp3.1\Ch3_6_6_d1.csproj.CoreCompileInputs.cache
+D:\CS\CS\Ch3_3_6_d1\obj\Debug\netcoreapp3.1\Ch3_6_6_d1.dll
+D:\CS\CS\Ch3_3_6_d1\obj\Debug\netcoreapp3.1\Ch3_6_6_d1.pdb
+D:\CS\CS\Ch3_3_6_d1\obj\Debug\netcoreapp3.1\Ch3_6_6_d1.genruntimeconfig.cache

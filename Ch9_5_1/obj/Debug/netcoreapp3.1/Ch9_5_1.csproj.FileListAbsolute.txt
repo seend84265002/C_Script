@@ -1,0 +1,14 @@
+D:\CS\CS\Ch9_5_1\bin\Debug\netcoreapp3.1\Ch9_5_1.exe
+D:\CS\CS\Ch9_5_1\bin\Debug\netcoreapp3.1\Ch9_5_1.deps.json
+D:\CS\CS\Ch9_5_1\bin\Debug\netcoreapp3.1\Ch9_5_1.runtimeconfig.json
+D:\CS\CS\Ch9_5_1\bin\Debug\netcoreapp3.1\Ch9_5_1.runtimeconfig.dev.json
+D:\CS\CS\Ch9_5_1\bin\Debug\netcoreapp3.1\Ch9_5_1.dll
+D:\CS\CS\Ch9_5_1\bin\Debug\netcoreapp3.1\Ch9_5_1.pdb
+D:\CS\CS\Ch9_5_1\obj\Debug\netcoreapp3.1\Ch9_5_1.csproj.AssemblyReference.cache
+D:\CS\CS\Ch9_5_1\obj\Debug\netcoreapp3.1\Ch9_5_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\CS\Ch9_5_1\obj\Debug\netcoreapp3.1\Ch9_5_1.AssemblyInfoInputs.cache
+D:\CS\CS\Ch9_5_1\obj\Debug\netcoreapp3.1\Ch9_5_1.AssemblyInfo.cs
+D:\CS\CS\Ch9_5_1\obj\Debug\netcoreapp3.1\Ch9_5_1.csproj.CoreCompileInputs.cache
+D:\CS\CS\Ch9_5_1\obj\Debug\netcoreapp3.1\Ch9_5_1.dll
+D:\CS\CS\Ch9_5_1\obj\Debug\netcoreapp3.1\Ch9_5_1.pdb
+D:\CS\CS\Ch9_5_1\obj\Debug\netcoreapp3.1\Ch9_5_1.genruntimeconfig.cache
